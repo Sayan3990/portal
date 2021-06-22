@@ -11,7 +11,7 @@ can be helpful to others in need.
 </p>
 We make a heartful request for everyone to please come forward and contribute here. Your contribution in a small way may help many in their battle against COVID-19.
 
-### WebsiteLink - https://bit.ly/2T1HvAn
+### WebsiteLink - https://sadbhawna.netlify.app/
 
 
 ### All suggestions are welcomed and appreciated.We are constantly working and more releases will be made in the coming days.
